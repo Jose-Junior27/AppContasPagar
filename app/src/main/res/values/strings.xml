@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contas a Pagar</string>
+    <string name="label_lacar_despesa">Lançar Despesa</string>
+    <string name="label_titulo">Título</string>
+    <string name="label_Data">Data</string>
+    <string name="label_hora">Hora</string>
+    <string name="label_cancelar">Cancelar</string>
+</resources>
