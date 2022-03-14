@@ -5,4 +5,9 @@
     <string name="label_Data">Data</string>
     <string name="label_hora">Hora</string>
     <string name="label_cancelar">Cancelar</string>
+    <string name="label_despesas">Despesas</string>
+    <string name="label_description_nova_tarefa">Nova Tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+    <string name="nenhuma_conta_para_pagar">Aêêê... Você não tem nenhuma conta para pagar!!!</string>
 </resources>

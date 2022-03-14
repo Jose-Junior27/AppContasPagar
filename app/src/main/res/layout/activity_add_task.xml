@@ -86,6 +86,7 @@
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_cancel"
         app:layout_constraintBottom_toTopOf="@+id/btn_new_task"
         app:layout_constraintStart_toStartOf="@id/guid_start"
         app:layout_constraintEnd_toEndOf="@id/guid_end"
